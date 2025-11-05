@@ -1,0 +1,1 @@
+**Steam Games Dataset 2025 by Artempospelov, Assolkubaeva and Arina Nevolina  :** ```https://www.kaggle.com/datasets/artermiloff/steam-games-dataset?select=games_may2024_cleaned.csv```
