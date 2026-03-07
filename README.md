@@ -98,4 +98,4 @@ Each project includes visualizations with:
 - Publication-quality figures (300 DPI)
 ---
 
-*Last Updated: March 2025*
+*Last Updated: March 2026*
